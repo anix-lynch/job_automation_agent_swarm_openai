@@ -1,0 +1,102 @@
+MICHELLE SANDERS
+Data Scientist | Machine Learning | Analytics
+
+help@enhancv.com
+linkedin.com
+Chicago, Illinois
+
+Summary
+======
+With 7 years of experience in the domain of data science and analytics, I bring a proven knowledge of complex problem solving, machine learning, and strategic data analytics. Standout achievements include developing a predictive ad model and implementing a real-time analytics platform.
+
+
+Experience
+======
+Data Scientist
+Facebook
+2018 - Ongoing
+Chicago, IL
+Developed and implemented machine learning models for user behavior prediction.
+ - Developed a machine learning model to predict user behaviour, which improved click-through rates on ads by 20%
+ - Managed large datasets, improved procedures resulting in 30% time saved in data pre-processing
+ - Liaised with teams to understand business needs, translated into analytics & executed strategy, which increased conversions by 15%
+
+Data Analyst
+IBM
+2015 - 2018
+Chicago, IL
+Analyzed large volumes of data to derive actionable insights.
+ - Implemented a big data platform for real-time analytics that increased processing speed by 35%
+ - Designed and conducted A/B testing which resulted in 10% increase in user engagement
+ - Analyzed data from various sources to develop insights used to drive business strategies
+
+Junior Data Analyst
+Google
+2013 - 2015
+Chicago, IL
+Worked with the analytics team to maintain and develop reports.
+ - Implemented improvements to data collection which increased data accuracy by 25%
+ - Assisted with database design and data cleaning, improving data quality and integrity
+ - Involved in developing ETL processes for new data sources
+
+
+Education
+======
+Master's in Computer Science with specialization in Data Science
+University of Chicago
+2011 - 2013
+Chicago, IL
+
+Bachelor's in Computer Science
+University of Illinois
+2007 - 2011
+Urbana-Champaign, IL
+
+
+Languages
+======
+English
+
+
+Strengths
+======
+Complex Problem Solving
+Developed a machine learning model to predict user behaviour, improving targeted advertising by 30%
+
+Machine Learning
+Streamlined data processing tasks by implementing automation tools, boosting efficiency by 45%
+
+Leadership
+Successfully led a project involving the restructuring of the company's data architecture
+
+
+Skills
+======
+ - Big Data
+ - Data Visualization
+ - Statistical Analysis
+ - Python
+ - R
+ - SQL
+ - ETL
+ - Machine Learning
+ - AI
+
+
+Certification
+======
+Certificate in Data Science
+Johns Hopkins University (Coursera)
+
+Machine Learning
+Stanford University (Coursera)
+
+
+Passions
+======
+Machine Learning
+Passionate about leveraging machine learning to interpret complex datasets
+
+Rock Climbing
+Love challenging myself physically and mentally through rock climbing
+
